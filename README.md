@@ -103,11 +103,11 @@ Chatbot and emergency contact section provide support info.
 
 
 👨‍💻 Project Team
-Kul Chandra Bhatt – Data Collection, Chatbot, Graphs, Documentation
+Kul Chandra Bhatt 
 
-Anup Ghimire – Model Implementation, Result Tuning
+Anup Ghimire 
 
-Atul Khetan – Web UI, Flask Integration, Testing
+Atul Khetan
 
 Guided by: Dr. Niyati Aggrawal, Jaypee Institute of Information Technology
 
