@@ -2,6 +2,14 @@
 
 This project is a machine learning-based web application that predicts crime rates in 19 metropolitan Indian cities. It uses historical crime data (2014–2021) sourced from the **National Crime Records Bureau (NCRB)** and supports prediction for 10 major crime categories. The system integrates a chatbot, interactive UI, and emergency contact details to help users get insights and guidance.
 
+## 🔗 Live Demo
+
+[Visit the deployed app here](https://crime-rate-prediction-66ru.onrender.com)
+
+Or click the badge below:  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://crime-rate-prediction-66ru.onrender.com)
+
+
 ## 📌 Features
 
 - 📈 **Crime Rate Prediction** based on city, crime type, and year
